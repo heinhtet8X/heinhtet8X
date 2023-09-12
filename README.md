@@ -1,3 +1,2 @@
------------------------------------------------------------------
-<h2>Hein Htet Aung</h2> <small> Full Stack Web Developer </small>
------------------------------------------------------------------
+<h1>Hein Htet Aung</h1>
+#Full Stack Web Developer#
