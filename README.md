@@ -1,2 +1,1 @@
-<img height="160px" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHpoM3h2dGRnbDhteTZhMTBsaWtyc2V3a3Z1emI4OTBtMXQ2MWZ6MiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wNnDbvuZqzho4/giphy.gif" alt="Batman" />
-<img height="160px" align="left" src="https://media.giphy.com/media/EksD1gweEEdGw/giphy.gif" alt="Superman" />
+<img width="100%" src="https://media.giphy.com/media/VJAtOCJks1aQoIiPIb/giphy.gif" />
