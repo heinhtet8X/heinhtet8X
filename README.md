@@ -5,6 +5,3 @@
 </p>
 <p align="right">
 </p>
-<p align="center">
-  Let start the party
-</p>
