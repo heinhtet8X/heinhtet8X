@@ -5,3 +5,4 @@
 <p align="center">
   <img width="40%" src="https://media.giphy.com/media/VJAtOCJks1aQoIiPIb/giphy.gif" />
 </p>
+![Profile view counter on GitHub](https://github.com/heinhtet8X)
